@@ -26,7 +26,7 @@ Para iniciá-lo, siga os passos abaixo:
 $ npm install
 ```
 
-Instale as dependências nofront e no back end e somente depois rode o comando de Iniciar
+Instale as dependências no front e no back end e somente depois rode o comando de Iniciar
 ```bash
 #Iniciar o projeto
 $ npm run start
