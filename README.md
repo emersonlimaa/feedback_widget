@@ -35,6 +35,7 @@ O aplicativo está disponível no seu navegador pelo endereço http://localhost:
 
 Para deploy do front end foi usado o [Vercel](https://vercel.com) e para o deploy do back, usamos o [Railway](https://railway.app)
 
+## Veja o site final no ar [Aqui](feedback-widget-otujnnskc-mers77.vercel.app)
 
 ##  🔖 Disposição
 
