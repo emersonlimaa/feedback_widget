@@ -14,7 +14,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ##  🖼️ Imagens
 
-[Screenshot](https://github.com/emersonlimaa/feedback_widget/blob/main/Images/1.png)
+  ![Screenshot](https://github.com/emersonlimaa/feedback_widget/blob/main/Images/1.png?raw=true)
+  ![Screenshot](https://github.com/emersonlimaa/feedback_widget/blob/main/Images/2.png?raw=true)
 
 ##  🚀 Como executar
 
