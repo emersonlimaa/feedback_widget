@@ -12,6 +12,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [ TypeScript ](https://www.typescriptlang.org/)
 - [ Postgresql ](https://www.postgresql.org/)
 
+##  🖼️ Imagens
+
+[Screenshot](https://github.com/emersonlimaa/feedback_widget/blob/main/Images/1.png)
+
 ##  🚀 Como executar
 
 Clone o projeto e acesse a pasta do mesmo.
